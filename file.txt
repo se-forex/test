@@ -1,4 +1,4 @@
-RELEASE 1.0
+RELEASE 1.1
 dev_start
 dev_1_commit
 dev_2_commit
